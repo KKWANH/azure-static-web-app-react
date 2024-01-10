@@ -3,7 +3,7 @@ import React from 'react';
 function App() {
   const value = 'World';
   return
-    <div style={font_weight="bold"}>
+    <div>
         Welcome to Team Slice!
     </div>;
 }
